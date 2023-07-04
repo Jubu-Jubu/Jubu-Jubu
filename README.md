@@ -1,7 +1,19 @@
 # Welcome to My GitHub Profile! 👋
 
 ![](https://github.com/Jubu-Jubu/Jubu-Jubu/blob/main/giphy2.gif)
-
+<div style="display: flex;">
+    <div style="flex: 50%;">
+        <p>About Me:</p>
+        <ul>
+            <li>🤖 Passionate and driven robotics enthusiast</li>
+            <li>🎓 MSc Robotics student expanding knowledge and skills</li>
+            <li>🔧 Skilled problem solver and quick learner</li>
+        </ul>
+    </div>
+    <div style="flex: 50%;">
+        <img src="[profile_animation.gif](https://github.com/Jubu-Jubu/Jubu-Jubu/blob/main/giphy2.gif)" alt="Profile GIF">
+    </div>
+</div>
 ## About Me
 🤖 Passionate and driven robotics enthusiast
 🎓 MSc Robotics student expanding knowledge and skills

@@ -11,7 +11,7 @@
         </ul>
     </div>
     <div style="flex: 50%;">
-        <img src="[profile_animation.gif](https://github.com/Jubu-Jubu/Jubu-Jubu/blob/main/giphy2.gif)" alt="Profile GIF">
+        <img src="https://github.com/Jubu-Jubu/Jubu-Jubu/blob/main/giphy2.gif" alt="Profile GIF">
     </div>
 </div>
 ## About Me

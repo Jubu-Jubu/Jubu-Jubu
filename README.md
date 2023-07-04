@@ -22,9 +22,17 @@
 <div style="display: flex;">
     <div style="flex: 100%;">
         <ul>
-            <li>📚 ROS</li>
-            <li>💻 Proficient in C/C++, Python, and Web</li>
-            <li>🔌 Experienced with Arduino and Raspberry Pi</li>
+            <li>📚 Proficient in C/C++, Python, and MATLAB programming languages</li>
+            <li>🔌 Experienced with Arduino, Raspberry Pi and other microcontrollers</li>
+            <li>🌐 Familiar with web development technologies: HTML, CSS, JavaScript, PHP</li>
+            <li>💡 Knowledge of advanced control theory and simulation using Robot Operating System (ROS) and Gazebo</li>
+            <li>📊 Experience in data analysis and visualization using Python libraries such as NumPy, pandas, and Matplotlib</li>
+            <li>⚙️ Familiarity with CAD/CAM software, including Fusion360</li>
+            <li>🖨️ Experience with 3D printing, including design and fabrication of 3D models and assemblies</li>
+            <li>💡 Strong problem-solving skills in robotics and programming</li>
+            <li>🚀 Quick learner, adaptable to new technologies and concepts</li>
+            <li>👥 Excellent teamwork and collaboration abilities</li>
+            <li>🗣️ Effective communication and presentation skills</li>
         </ul>
     </div>
 </div>
@@ -40,8 +48,6 @@
         </ul>
     </div>
 </div>
-🤝 Collaborative mindset and active contributor to open-source projects
-🌟 Excited to connect and collaborate with fellow developers
 
 Feel free to explore my projects and repositories, and don't hesitate to reach out if you have any questions or would like to collaborate. Let's embark on an exciting coding journey together! 🚀
 

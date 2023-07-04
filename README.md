@@ -1,8 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
-![](https://github.com/Jubu-Jubu/Jubu-Jubu/blob/main/giphy2.gif)
 <div style="display: flex;">
-    <div style="flex: 50%;">
+    <div style="flex: 30%;">
         <p>About Me:</p>
         <ul>
             <li>🤖 Passionate and driven robotics enthusiast</li>
@@ -10,7 +9,7 @@
             <li>🔧 Skilled problem solver and quick learner</li>
         </ul>
     </div>
-    <div style="flex: 50%;">
+    <div style="flex: 70%;">
         <img src="https://github.com/Jubu-Jubu/Jubu-Jubu/blob/main/giphy2.gif" alt="Profile GIF">
     </div>
 </div>

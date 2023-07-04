@@ -1,8 +1,9 @@
 # Welcome to My GitHub Profile! 👋
 
+## About Me:
+
 <div style="display: flex;">
     <div style="flex: 30%;">
-        <p>About Me:</p>
         <ul>
             <li>🤖 Passionate and driven robotics enthusiast</li>
             <li>🎓 MSc Robotics student expanding knowledge and skills</li>
@@ -13,17 +14,32 @@
         <img src="https://github.com/Jubu-Jubu/Jubu-Jubu/blob/main/giphy2.gif" alt="Profile GIF">
     </div>
 </div>
-## About Me
-🤖 Passionate and driven robotics enthusiast
-🎓 MSc Robotics student expanding knowledge and skills
-🔧 Skilled problem solver and quick learner
 
-## Projects
-📚 Diverse range of projects on GitHub
-💻 Proficient in C/C++, Python, and Web
-🔌 Experienced with Arduino and Raspberry Pi
+
+## Projects:
+
+
+<div style="display: flex;">
+    <div style="flex: 100%;">
+        <ul>
+            <li>📚 Diverse range of projects on GitHub</li>
+            <li>💻 Proficient in C/C++, Python, and Web</li>
+            <li>🔌 Experienced with Arduino and Raspberry Pi</li>
+        </ul>
+    </div>
+</div>
+
 
 ## Collaboration and Contributions
+
+<div style="display: flex;">
+    <div style="flex: 100%;">
+        <ul>
+            <li>🤝 Collaborative mindset and active contributor to open-source projects</li>
+            <li>🌟 Excited to connect and collaborate with fellow developers</li>
+        </ul>
+    </div>
+</div>
 🤝 Collaborative mindset and active contributor to open-source projects
 🌟 Excited to connect and collaborate with fellow developers
 

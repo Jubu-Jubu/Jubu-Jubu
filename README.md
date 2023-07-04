@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-![Profile Picture](profile_picture.jpg)
+![](https://github.com/Jubu-Jubu/Jubu-Jubu/blob/main/giphy2.gif)
 
 ## About Me
 🤖 Passionate and driven robotics enthusiast

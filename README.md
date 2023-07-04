@@ -16,13 +16,13 @@
 </div>
 
 
-## Projects:
+## Skills:
 
 
 <div style="display: flex;">
     <div style="flex: 100%;">
         <ul>
-            <li>📚 Diverse range of projects on GitHub</li>
+            <li>📚 ROS</li>
             <li>💻 Proficient in C/C++, Python, and Web</li>
             <li>🔌 Experienced with Arduino and Raspberry Pi</li>
         </ul>

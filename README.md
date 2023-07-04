@@ -9,7 +9,7 @@
 
 ## Projects
 📚 Diverse range of projects on GitHub
-💻 Proficient in Java, Python, and C/C++
+💻 Proficient in C/C++, Python, and Web
 🔌 Experienced with Arduino and Raspberry Pi
 
 ## Collaboration and Contributions
